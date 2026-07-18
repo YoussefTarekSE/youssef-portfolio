@@ -133,6 +133,15 @@ export const config = {
             image: "/images/project-cover-4.svg",
             link: "",
             description: "A relational schema for games, customers, transactions, and staff, backed by tested PL/SQL stored procedures validating data accuracy and integrity across insert, update, and delete scenarios."
+        },
+        {
+            id: 5,
+            title: "DreamStage",
+            category: "Full-Stack · AI",
+            technologies: "Next.js, FastAPI, Supabase, Python, AI Audio Pipeline",
+            image: "/images/project-cover-5.svg",
+            link: "https://github.com/YoussefTarekSE/DreamStage",
+            description: "An AI producer for people who've never touched a DAW — record a vocal in the browser and get a fully produced, mixed, and mastered song back. Vocal-following beat generation (tiered: neural / MusicGen / real-instrument synthesis), unlimited branchable Producer Cuts with taste learning, AI coaching, and automatic mastering to streaming loudness."
         }
     ],
     contact: {
